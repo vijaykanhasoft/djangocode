@@ -1,0 +1,2 @@
+# djangocode
+djangocode structure
